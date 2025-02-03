@@ -1,0 +1,16 @@
+{
+  "threshold": 10.0,
+  "gestureActions": {
+    "1swipe_left": "echo '1-finger swipe left action executed'",
+    "1swipe_right": "echo '1-finger swipe right action executed'",
+    "1swipe_up": "echo '1-finger swipe up action executed'",
+    "1swipe_down": "echo '1-finger swipe down action executed'",
+    "3swipe_left": "echo '3-finger swipe left action executed'",
+    "3swipe_right": "echo '3-finger swipe right action executed'",
+    "3swipe_up": "wvkbd-mobintl -L 500 --fn \"Sans Bold 24\" --text ffbf40 --text-sp ffbf40 --bg 000000 --fg 222222 --fg-sp 333333 --press 444444 --press-sp 444444",
+    "3swipe_down": "pkill -f wvkbd-mobintl",
+    "2swipe_up": "wvkbd-mobintl -L 500 --fn \"Sans Bold 24\" --text ffbf40 --text-sp ffbf40 --bg 000000 --fg 222222 --fg-sp 333333 --press 444444 --press-sp 444444",
+    "2swipe_down": "pkill -f wvkbd-mobintl"
+  },
+  "debug": false
+}
