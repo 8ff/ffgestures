@@ -1,6 +1,6 @@
 # FFGestures 🖐️
 
-Multi-touch gesture tool for FreeBSD touchscreens, tested on Panasonic FZ-G1 tablet. Supports 1-10 finger gestures.
+Multi-touch gesture tool for FreeBSD touchscreens.
 
 ## ✨ Features
 - 🖐️ Multi-finger detection (Tested up to 10 fingers)
@@ -12,7 +12,7 @@ Multi-touch gesture tool for FreeBSD touchscreens, tested on Panasonic FZ-G1 tab
 
 ## 🚀 Quick Start
 
-### Set up permissions
+### Setup permissions
 
 ```bash
 # Setup input group and permissions
